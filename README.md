@@ -15,4 +15,18 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 ![image](https://github.com/dilqvl62/sql-challenge/assets/107519883/71403308-6aa7-4655-ba62-49d39120f4e5)
 
+# Data Engineering
+
+* Create a table schema for each of the six CSV files.
+
+  * Specify the data types, primary keys, foreign keys, and other constraints.
+  * For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
+  * Create the tables in the correct order to handle the foreign keys.
+* Import each CSV file into its corresponding SQL table.
+
+[***Solution can be dound here using Postgresql***](https://github.com/dilqvl62/sql-challenge/blob/main/EmployeeSQL/Tables.sql)
+
+
+
+
 
