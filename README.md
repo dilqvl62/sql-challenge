@@ -28,9 +28,9 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 # Data Analysis
 
-1* List the employee number, last name, first name, sex, and salary of each employee.
+1 * List the employee number, last name, first name, sex, and salary of each employee.
 
-2* List the first name, last name, and hire date for the employees who were hired in 1986.
+2 * List the first name, last name, and hire date for the employees who were hired in 1986.
 
 List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
