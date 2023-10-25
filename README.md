@@ -14,3 +14,5 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 
 ![image](https://github.com/dilqvl62/sql-challenge/assets/107519883/71403308-6aa7-4655-ba62-49d39120f4e5)
+
+
