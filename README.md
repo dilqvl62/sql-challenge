@@ -10,7 +10,7 @@ For this project, I’ll design the tables to hold the data from the CSV files, 
 
 # Data Modeling
 
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBDLinks to an external site..
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like [QuickDBDLinks](https://www.quickdatabasediagrams.com/) to an external site..
 
 
 ![image](https://github.com/dilqvl62/sql-challenge/assets/107519883/71403308-6aa7-4655-ba62-49d39120f4e5)
